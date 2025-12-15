@@ -1,23 +1,23 @@
-# Context
-This folder contains training materials for GitHub Spec Kit. It is designed for hands-on workshops and self-paced learning, covering all phases of the Spec Kit workflow with practical labs and solutions. The materials are suitable for both individual learners and teams, and can be used as a foundation for your own Spec Kit onboarding or enablement sessions.
-
 
 # Spec Kit Public Training Exercises
 
-This folder provides:
-- Context and orientation for Spec Kit public training
-- Labs (`labs/`) with step-by-step exercises (see Lab 1 for setup and initialization)
-- Solutions (`solutions/`) for all labs
+This folder is a public, speaker-note-free resource for hands-on Spec Kit training. It is suitable for workshops, onboarding, and self-paced learning, and covers all phases of the Spec Kit workflow with practical labs and solutions.
 
-## How to Use
-- Start with `labs/lab-1.md` for setup and initialization instructions.
+**Browse these materials online:**
+- [https://github.com/jrodan/github-spec-kit-exercises](https://github.com/jrodan/github-spec-kit-exercises)
+
+**If you are using this as a submodule:**
+- All labs and solutions are in this folder. Start with `labs/lab-1.md` for setup and initialization.
 - Proceed through the labs in order for a complete Spec Kit workflow experience.
 
-## Troubleshooting
-- For any missing dependencies, follow the error messages or see the main `README.md` for more details.
-
 ## What’s Included
-- Labs: `labs/`
-- Solutions: `solutions/`
+- `labs/`: Step-by-step exercises for each Spec Kit phase
+- `solutions/`: Solutions for all labs
+
+## Troubleshooting
+- For missing dependencies or setup issues, see the main repo's `README.md` or follow error messages in your terminal.
+
+---
+For feedback or contributions, open an issue or PR in the [public repo](https://github.com/jrodan/github-spec-kit-exercises).
 
 
