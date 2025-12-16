@@ -22,7 +22,7 @@ Install the Spec Kit CLI and initialize a new Spec Kit project.
      ```
 2. **Verify installation:**
    ```bash
-   spec-kit --help
+   specify --help
    ```
 3. **Initialize a new Spec Kit project:**
    ```bash
