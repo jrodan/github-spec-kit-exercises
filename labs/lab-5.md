@@ -15,7 +15,7 @@ Execute all tasks to generate the API spec, client, and server according to the 
 Steps
 -----
 1. Use Spec Kit or your documented plan to:
-  - Generate the API spec, client, and server artifacts (e.g., using `spec-kit generate` or similar commands).
+  - Generate the API spec, client, and server artifacts (e.g., using `spec-kit implemente` or similar commands).
   - Integrate the generated artifacts into your consumer/provider project.
   - Test and review the generated artifacts for correctness and completeness.
 2. Document any issues or improvements needed.
